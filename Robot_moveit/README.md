@@ -1,7 +1,5 @@
-Cargando robot industrial UR5 con Moveit2.
 
-Miembros de equipo:
-- Valentina Cardenas
-- Jhon Fredy Moreno
-- Stiven Andrade
-- Andres Garcia
+Miembros del grupo:
+- Juan Pablo Pulido Angel
+- Nicolas Andres Morales
+- Sebastian Quintero
